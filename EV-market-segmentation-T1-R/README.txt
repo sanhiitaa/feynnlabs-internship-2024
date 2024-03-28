@@ -5,3 +5,5 @@
 3. Addressed null values by replacing them with 0 or median values as appropriate.
 4. Utilized three clustering techniques to identify the most suitable method, ultimately implementing K-Means clustering for segmentation.
 5. Described and profiled the resulting segments, drawing actionable insights from the analysis.
+
+#DBSCAN #HierarchalClustering #KMeansClustering
