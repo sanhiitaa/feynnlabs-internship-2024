@@ -1,4 +1,4 @@
-**Geographical Market Segmentation on Electric Vehicles Dataset.** 
+##**Geographical Market Segmentation on Electric Vehicles Dataset.** 
 
 1. Cleaned the dataset to address string inconsistencies, particularly in state names.
 2. Merged two datasets with concurrent timelines, leveraging the state column to gain a comprehensive overview.
